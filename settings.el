@@ -2,5 +2,4 @@
 (ido-mode 0)
 (helm-mode)
 (set 'ring-bell-function 'ignore)
-
-
+(set 'compilation-scroll-output 'first-error)
