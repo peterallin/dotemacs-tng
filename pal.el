@@ -5,5 +5,5 @@
 (load "cc-mode-config.el")
 (load "win-switch-config.el")
 (load "haskell-config.el")
-
+(load "key-bindings.el")
 
