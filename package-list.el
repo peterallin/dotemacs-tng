@@ -12,4 +12,5 @@
     paredit
     yasnippet
     zenburn-theme
+    win-switch
 ))
