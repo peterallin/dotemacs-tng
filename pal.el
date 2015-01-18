@@ -4,5 +4,6 @@
 (load "python-mode-config.el")
 (load "cc-mode-config.el")
 (load "win-switch-config.el")
+(load "haskell-config.el")
 
 
