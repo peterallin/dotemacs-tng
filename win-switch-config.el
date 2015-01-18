@@ -1,2 +1,20 @@
 (set 'win-switch-other-window-first nil)
+(set 'win-switch-idle-time 1.5)
+(win-switch-set-wrap-around -1)
+(win-switch-set-keys '("w") 'up)
+(win-switch-set-keys '("s") 'down)
+(win-switch-set-keys '("a") 'left)
+(win-switch-set-keys '("d") 'right)
+(win-switch-set-keys '("W") 'enlarge-vertically)
+(win-switch-set-keys '("A") 'shrink-horizontally)
+(win-switch-set-keys '("S") 'shrink-vertically)
+(win-switch-set-keys '("D") 'enlarge-horizontally)
+(win-switch-set-keys '(" ") 'other-frame)
+(win-switch-set-keys '("r" [return]) 'exit)
+(win-switch-set-keys '("3") 'split-horizontally)
+(win-switch-set-keys '("2") 'split-vertically)
+(win-switch-set-keys '("4") 'delete-window)
+(win-switch-set-keys '("\M-\C-g") 'emergency-exit)
+
+
 
