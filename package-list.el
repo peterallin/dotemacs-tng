@@ -1,5 +1,6 @@
 (defvar my-packages 
   '(
+    ag
     auto-complete-exuberant-ctags
     better-defaults 
     etags-select
