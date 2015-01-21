@@ -2,7 +2,9 @@
   '(
     ag
     auto-complete-exuberant-ctags
-    better-defaults 
+    better-defaults
+    comment-dwim-2
+    dropdown-list
     etags-select
     find-file-in-project
     haskell-mode
