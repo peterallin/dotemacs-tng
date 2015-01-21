@@ -3,4 +3,5 @@ class $2
 {
 public:
   $2($3);
+private:
 };
