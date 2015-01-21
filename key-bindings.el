@@ -14,7 +14,7 @@
 (define-key global-map (kbd "M-:") 'etags-select-find-tag)
 (define-key global-map (kbd "M--") 'pal-hippie-expand)
 (define-key global-map (kbd "<f12>") 'call-last-kbd-macro)
-(define-key global-map (kbd "C-x o") 'win-switch-dispatch)
+(define-key global-map (kbd "s-o") 'win-switch-dispatch)
 (define-key global-map (kbd "s-m") 'magit-status)
 (define-key global-map (kbd "s-p") 'helm-projectile)
 (define-key global-map (kbd "s-f") 'projectile-ag)
