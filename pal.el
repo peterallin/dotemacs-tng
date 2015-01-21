@@ -6,5 +6,5 @@
 (load "win-switch-config.el")
 (load "haskell-config.el")
 (load "yasnippet-config.el")
+(load "hippie-expand-config.el")
 (load "key-bindings.el")
-
