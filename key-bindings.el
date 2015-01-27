@@ -24,6 +24,7 @@
 (define-key global-map (kbd "s-c n") 'compile)
 (define-key global-map (kbd "s-c s-n") 'compile)
 (define-key global-map (kbd "s-,") 'comment-dwim-2)
+(define-key global-map (kbd "s-n") 'linum-mode)
 
 ; Workarounds for probable misconfigurations in other software
 (define-key global-map (kbd "<select>") 'move-end-of-line)
