@@ -1,6 +1,7 @@
 (defvar my-packages 
   '(
     ag
+    ace-jump-mode
     auto-complete-exuberant-ctags
     better-defaults
     comment-dwim-2
