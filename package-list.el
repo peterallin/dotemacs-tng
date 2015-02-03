@@ -1,7 +1,7 @@
 (defvar my-packages 
   '(
-    ag
     ace-jump-mode
+    ag
     auto-complete-exuberant-ctags
     better-defaults
     comment-dwim-2
@@ -15,6 +15,7 @@
     ido-ubiquitous
     magit
     paredit
+    undo-tree
     win-switch
     yasnippet
     zenburn-theme

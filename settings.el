@@ -5,3 +5,4 @@
 (set 'compilation-scroll-output 'first-error)
 (defalias 'yes-or-no-p 'y-or-n-p)
 (set 'kill-whole-line t)
+(global-undo-tree-mode t)
