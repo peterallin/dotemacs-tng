@@ -1,6 +1,7 @@
 (defvar my-packages 
   '(
     ace-jump-mode
+    ace-window
     ag
     auto-complete-exuberant-ctags
     better-defaults
