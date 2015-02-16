@@ -16,6 +16,7 @@
     ido-ubiquitous
     magit
     paredit
+    smooth-scrolling
     undo-tree
     win-switch
     yasnippet
