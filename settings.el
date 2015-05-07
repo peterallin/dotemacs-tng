@@ -6,3 +6,4 @@
 (defalias 'yes-or-no-p 'y-or-n-p)
 (set 'kill-whole-line t)
 (global-undo-tree-mode t)
+(set 'magit-last-seen-setup-instructions "1.4.0")
