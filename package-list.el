@@ -9,11 +9,13 @@
     dropdown-list
     etags-select
     find-file-in-project
+    flycheck-irony
     haskell-mode
     helm-ag
     helm-projectile
     idle-highlight-mode
     ido-ubiquitous
+    irony
     magit
     paredit
     smooth-scrolling

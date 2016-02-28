@@ -9,7 +9,7 @@
   (set-variable 'truncate-lines 1)
   ;(define-key c-mode-base-map (kbd "RET") 'newline-and-indent)
   (define-key c-mode-base-map (kbd "RET") 'c-indent-new-comment-line)
-  (c-setup-filladapt)
+  (flycheck-mode 1)
 )
 
 (defun pal-c-save-hook ()
