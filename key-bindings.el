@@ -29,6 +29,8 @@
 (define-key global-map (kbd "C-c p") 'helm-projectile)
 (define-key global-map (kbd "C-c s") 'sort-lines)
 (define-key global-map (kbd "C-c h") 'ff-find-other-file)
+(define-key global-map [remap find-file] 'helm-find-files)
+(define-key global-map [remap execute-extended-command] 'helm-M-x)
 
 ; Workarounds for probable misconfigurations in other software
 (define-key global-map (kbd "<select>") 'move-end-of-line)
